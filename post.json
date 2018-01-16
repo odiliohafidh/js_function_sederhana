@@ -1,0 +1,87 @@
+{
+  "serviceType": "INSTANT",
+  "sender": {
+    "firstName": "",
+    "lastName": "TS1",
+    "title": "",
+    "companyName": "",
+    "email": "calvin@gmail.com",
+    "phone": "08123911190",
+    "smsEnabled": false,
+    "instruction": ""
+  },
+  "recipient": {
+    "firstName": "",
+    "lastName": "TR1",
+    "title": "",
+    "companyName": "",
+    "email": "setiawan@gmail.com",
+    "phone": "081262730002",
+    "smsEnabled": false,
+    "instruction": ""
+  },
+  "origin": {
+    "address": "Jalan Letjen S.Parman",
+    "keywords": "",
+    "coordinates": {
+      "latitude": -6.2339117,
+      "longitude": 106.8191382
+    },
+    "extra": {
+      "postcode": "11410",
+      "district": 2252,
+      "city": 174,
+      "province": 13
+    }
+  },
+  "destination": {
+    "address": "JL. GELATIK NO. 12A",
+    "keywords": "",
+    "coordinates": {
+      "latitude": -6.2379292,
+      "longitude": 106.8135819
+    },
+    "extra": {
+      "postcode": "12000",
+      "district": 2282,
+      "city": 177,
+      "province": 13
+    }
+  },
+  "packages": [{
+    "name": "CaseHpXiaomi",
+    "invoiceNo": "",
+    "description": "NewCaseHpXiaomi",
+    "quantity": 0,
+    "price": 20000,
+    "dimensions": {
+      "height": 0,
+      "width": 0,
+      "depth": 0,
+      "weight": 7000
+    },
+    "currency": {
+      "code": "IDR",
+      "symbol": "PR",
+      "exponent": 0
+    }
+  }, {
+    "name": "HuaWei",
+    "invoiceNo": "",
+    "description": "HuaWei honor",
+    "quantity": 0,
+    "price": 3090,
+    "dimensions": {
+      "height": 0,
+      "width": 0,
+      "depth": 0,
+      "weight": 700
+    },
+    "currency": {
+      "code": "IDR",
+      "symbol": "PR",
+      "exponent": 0
+    }
+  }],
+  "invoiceNo": "INV/xxxx/122312"
+}
